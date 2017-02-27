@@ -2,3 +2,6 @@
 First tutorial
 
 Primeiro projeto com a tentantiva de entender o funcionamento desta plataforma
+
+
+# Edicao final revisada
